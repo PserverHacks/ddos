@@ -4,7 +4,7 @@ from colorama import Fore, Style
 def usage():
 	print (''' \033[92m	myDos: AL104
 	We Dont Have A Law. Feel Free Take Risk.. \n
-	usage : python3 dozer.py [-s] [-p] [-t]
+	usage : python3 ddos.py [-s] [-p] [-t]
 	-h : help
 	-t : target ip
 	-p : port default 80
